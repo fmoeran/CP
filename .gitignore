@@ -2,3 +2,6 @@
 *.o
 .idea
 .vscode
+problemsets/*
+!problemsets/*.*
+!problemsets/*/
